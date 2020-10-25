@@ -23,8 +23,8 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   Research on election access laws in several key states, accurate to the best of our knowledge
   as of the 2020 election.
-baseurl: "pdfit" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://askew1312.github.io/pdfit/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
